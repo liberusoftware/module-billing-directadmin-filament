@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-directadmin-filament",
+  "capabilityKey": "liberusoftware/billing-directadmin",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/billing-directadmin-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/billing/nextjs/module-billing-directadmin.md",
+  "presentationPlan": "projects/billing/filament/module-billing-directadmin.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
